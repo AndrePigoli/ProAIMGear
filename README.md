@@ -1,4 +1,4 @@
-#ProAim Gear
+ProAim Gear
 
 ProAim Gear é uma loja virtual especializada em produtos de alto desempenho para gamers e profissionais, oferecendo mouses, teclados e mousepads de marcas renomadas. O objetivo deste projeto é criar uma experiência de compra online moderna, com design imersivo e funcionalidades eficientes para o usuário.
 
